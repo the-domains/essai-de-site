@@ -1,0 +1,14 @@
+layout_spectrum: 0.9846935647074133
+typography_spectrum: 0.051820960361510515
+color:
+  brandStrength: 0.5647301955614239
+  lightness: 0.05619416385889053
+  saturation: 0.13236793596297503
+  rhythmicContrast: 0.37136075156740844
+  brandColors:
+    - '#E0CCB1'
+    - '#5C6376'
+    - '#1F1E24'
+    - '#C99A64'
+    - '#6A2E36'
+name: Essai de site
